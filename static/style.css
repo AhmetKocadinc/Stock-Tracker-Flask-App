@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+select {
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+#chartArea {
+    margin-top: 50px;
+}
+
+img {
+    margin-top: 20px;
+    max-width: 80%;
+    display: none;
+}
